@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AssignmentOne.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AssignmentTwo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Assignment2VertexFile.txt" />
+  </ItemGroup>
 </Project>
